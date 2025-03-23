@@ -19,7 +19,7 @@ Foi necessário carregar, preparar e analisar os dados para poder formular hipó
 - megaline_internet.csv (dataset)
 - megaline_messages.csv (dataset)
 - megaline_plans.csv (dataset)
-- megaline_users.csv (dataset)
+- megaline_users.csv (dataset) 
 
 
 
