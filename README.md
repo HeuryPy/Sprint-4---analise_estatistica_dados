@@ -13,6 +13,10 @@ A empresa oferece aos clientes dois planos pré-pagos: Surf e Ultimate.<br>
 O departamento comercial queria saber qual dos planos gera mais receita para ajustar o orçamento de publicidade.<br>
 Foi necessário carregar, preparar e analisar os dados para poder formular hipóteses e apresentar uma conclusão. 
 <br><br>
+
+**Sugestões para o futuro**<br>
+Ilustrar os resultados através de gráficos, para tomada de decisões.
+
 **Arquivos do Projeto:**
 - projeto_sprint4.ipynb (caderno Jupyter)
 - megaline_calls.csv (dataset)
