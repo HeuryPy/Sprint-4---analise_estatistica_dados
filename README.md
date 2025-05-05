@@ -14,7 +14,7 @@ O departamento comercial queria saber qual dos planos gera mais receita para aju
 Foi necessário carregar, preparar e analisar os dados para poder formular hipóteses e apresentar uma conclusão. 
 <br><br>
 
-**Sugestões para o futuro**<br>
+**Sugestões para o futuro:**<br>
 Ilustrar os resultados através de gráficos, para tomada de decisões.
 
 **Arquivos do Projeto:**
